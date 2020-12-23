@@ -1,1 +1,1 @@
-web:  waitress-serve --listen=*:5000 Airquality.wsgi:application
+web:  waitress-serve --listen=*: Airquality.wsgi:application

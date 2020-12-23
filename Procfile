@@ -1,1 +1,1 @@
-web:  waitress-serve --listen=*: Airquality.wsgi:application
+web: gunicorn Airquality.wsgi

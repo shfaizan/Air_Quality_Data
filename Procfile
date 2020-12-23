@@ -1,0 +1,1 @@
+web:  waitress-serve --listen=*:5001 Airquality.wsgi:application

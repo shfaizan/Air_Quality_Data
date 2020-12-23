@@ -1,5 +1,0 @@
-requests
-django-cors-headers
-djangorestframework
-Django
-beautifulsoup4

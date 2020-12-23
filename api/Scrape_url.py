@@ -1,5 +1,5 @@
 from django.urls import path
-from .api_Scrape_view import Fetch
+from .Scrape_View import Fetch
 
 
 urlpatterns = [

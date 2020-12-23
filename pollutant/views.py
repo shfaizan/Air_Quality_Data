@@ -1,6 +1,5 @@
 from django.shortcuts import render
-import requests
-from Sevices.WebScraping import get_gurugram_pollutants
+from Scrape.WebScraping import get_gurugram_pollutants
 
 
 def index(request):

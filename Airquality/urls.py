@@ -19,5 +19,5 @@ from django.urls import path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('pollutant.url')),
-    path('fetch/', include('api.api_Scrap_url')),
+    path('fetch/', include('api.Scrape_url')),
 ]

@@ -1,7 +1,7 @@
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
-from Sevices.WebScraping import  get_gurugram_pollutants
+from Scrape.WebScraping import  get_gurugram_pollutants
 import datetime
 '''
 This is GET and POST request api for the display 

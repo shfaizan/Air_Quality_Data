@@ -9,5 +9,8 @@
 4. Host this service on netlify/heroku or your local machine.
 5. Share your code with the necessary documentation.
 
+So for this assignment I have created a RestAPI along with the HTML template to render the data of the pollutant.
+
 ## My method
 
+1. 

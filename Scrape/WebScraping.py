@@ -22,6 +22,5 @@ def get_gurugram_pollutants():
             pollutants[name] = value
         return pollutants
     else:
-        """BAD REQUEST"""
         return False
 

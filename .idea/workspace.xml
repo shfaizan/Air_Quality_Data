@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dab1194-d9b8-48e7-865f-002c7e69ff33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pollutant/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pollutant/templates/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pollutant/url.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Global.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sevices/WebScraping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sevices/WebScraping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Airquality/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Airquality/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Airquality/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Airquality/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +53,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Airquality.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -78,7 +83,7 @@
       <workItem from="1608718878189" duration="2172000" />
       <workItem from="1608721365492" duration="2559000" />
       <workItem from="1608723978770" duration="1370000" />
-      <workItem from="1608725352742" duration="11200000" />
+      <workItem from="1608725352742" duration="14464000" />
     </task>
     <servers />
   </component>

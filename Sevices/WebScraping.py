@@ -1,12 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
-from Global import AQUI_WEB_URL
+
 
 
 # Air-Quality API helper service for querying API or WebScrapping Data
 def get_gurugram_pollutants():
     # get the air quality index api url
-    url = AQUI_WEB_URL
+    url = "https://air-quality.com/place/india/gurugram/d2853e61?lang=en&standard=aqi_us"
     try:
         response = requests.request("GET", url)
         status = response.status_code

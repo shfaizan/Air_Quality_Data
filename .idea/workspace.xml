@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1dab1194-d9b8-48e7-865f-002c7e69ff33" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Airquality/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Airquality/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +32,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -75,7 +77,7 @@
       <workItem from="1608718878189" duration="2172000" />
       <workItem from="1608721365492" duration="2559000" />
       <workItem from="1608723978770" duration="1370000" />
-      <workItem from="1608725352742" duration="4198000" />
+      <workItem from="1608725352742" duration="5226000" />
     </task>
     <servers />
   </component>

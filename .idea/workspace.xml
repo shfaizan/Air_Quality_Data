@@ -4,9 +4,7 @@
     <list default="true" id="1dab1194-d9b8-48e7-865f-002c7e69ff33" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sevices/WebScraping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrape/WebScraping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/api_Scrape_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/api_Scrape_view.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pollutant/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pollutant/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/Scrape_View.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/Scrape_View.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +79,7 @@
       <workItem from="1608718878189" duration="2172000" />
       <workItem from="1608721365492" duration="2559000" />
       <workItem from="1608723978770" duration="1370000" />
-      <workItem from="1608725352742" duration="15190000" />
+      <workItem from="1608725352742" duration="17577000" />
     </task>
     <servers />
   </component>
